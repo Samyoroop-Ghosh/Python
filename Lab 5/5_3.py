@@ -11,7 +11,7 @@ while choice != 0:
     print("3. Slice out the middle item or items from the food_stuff_tp tuple or food_stuff_lt list")
     print("4. Slice out the first three items and the last three items from food_stuff_lt list")
     print("5. Delete the food_stuff_tp tuple completely")
-    print("Anything else to Exit")
+    print("0. Anything else to Exit")
     
     choice = int(input("\nEnter your choice : "))
     
